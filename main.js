@@ -28,3 +28,4 @@ document.getElementById("each").style.display = "none";
 document.getElementById("calculate-btn").onclick = function() {
     tipCalculator();
 };
+
