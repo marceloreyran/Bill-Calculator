@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    margin: 7rem 0 0 20rem;
+    padding: 2rem 0 2rem 0;
+    border-radius: 50px;
+    background: linear-gradient(120deg, #71cb71, rgb(223, 206, 206));
+    box-shadow:  20px 20px 60px rgb(217, 217, 217), -20px -20px 60px #ffffff;
+}
