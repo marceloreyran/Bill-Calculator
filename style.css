@@ -118,3 +118,18 @@ input {
     margin-bottom: 2rem;
 
 }
+
+#tip-container p {
+    margin-bottom: 1rem;
+}
+
+#tip-container span {
+    font-weight: 700;
+    color: #00BFA6;
+}
+
+#total-container {
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 2rem;
+}
