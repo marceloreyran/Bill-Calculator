@@ -22,13 +22,13 @@ body {
 
 .container h1 {
     font-size: 2rem;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-bottom: 2rem;
 }
 
 .container p {
     font-size: 1.5rem;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-bottom: 2rem;
 
 }
@@ -103,7 +103,7 @@ input {
 #calculate-btn:hover {
     transition: .4s;
     border: 2px dashed #00BFA6;
-    background-color: #fff;
+    background-color: #000000;
     color: #00BFA6;
 }
 
@@ -114,8 +114,10 @@ input {
 
 #tip-container {
     font-size: 1.5rem;
-    color: #fff;
+    color: black;
     margin-bottom: 2rem;
+    padding: 5px;
+    
 
 }
 
