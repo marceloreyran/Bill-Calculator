@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: whitesmoke;
+    background-color: rgb(253, 245, 230);
     margin: 10px;
 }
 
@@ -134,4 +134,7 @@ input {
     font-size: 1.5rem;
     color: #fff;
     margin-bottom: 2rem;
+
 }
+
+
